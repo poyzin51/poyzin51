@@ -5,7 +5,6 @@
 <a href="https://www.linkedin.com/in/yassine-righi-a43369226/">
   <img align="left" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" />
 </a>
-
 <p align=left> <img src=https://komarev.com/ghpvc/?username=poyzin51 alt=poyzin51 /> </p>
 
 <br />
