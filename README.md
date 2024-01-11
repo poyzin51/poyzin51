@@ -12,6 +12,8 @@
 
 Hello, I'm Yassine Righi, an enthusiastic self-taught mobile developer and a dedicated computer science student based in Tunisia. My love for coding stems from my ability to conceptualize innovative ideas and bring them to life through sleek and user-friendly mobile interfaces. I place a strong emphasis on ensuring a seamless user experience, robust architecture, and high-quality code in all my development endeavors.
 
+
+
   <img align="right" alt="GIF" src="https://miro.medium.com/v2/resize:fit:679/1*yw0TnheAGN-LPneDaTlaxw.gif" width="512" height="320" style="border-radius:50%" />
 
 
@@ -25,7 +27,7 @@ Hello, I'm Yassine Righi, an enthusiastic self-taught mobile developer and a ded
 
 <!-- TODO: Make technologies links takes you to repositories -->
 
-[![Flutter Badge](https://img.shields.io/badge/-Flutter-007acc?style=for-the-badge&labelColor=black&logo=flutter&logoColor=007acc)](#)[![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Android Badge](https://img.shields.io/badge/-Android-a4c639?style=for-the-badge&labelColor=black&logo=android&logoColor=a4c639)](#)  [![Fireabse Badge](https://img.shields.io/badge/-Firebase-FFA611?style=for-the-badge&labelColor=black&logo=Firebase&logoColor=FFA611)](#)
+[![Flutter Badge](https://img.shields.io/badge/-Flutter-007acc?style=for-the-badge&labelColor=black&logo=flutter&logoColor=007acc)](#)  [![Fireabse Badge](https://img.shields.io/badge/-Firebase-FFA611?style=for-the-badge&labelColor=black&logo=Firebase&logoColor=FFA611)](#) [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Android Badge](https://img.shields.io/badge/-Android-3DDC84?style=for-the-badge&labelColor=black&logo=android&logoColor=3DDC84)](#) 
 
 
 
