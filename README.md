@@ -14,7 +14,7 @@ Hello, I'm Yassine Righi, an enthusiastic self-taught mobile developer and a ded
 
 
 
-  <img align="right" alt="GIF" src="https://miro.medium.com/v2/resize:fit:679/1*yw0TnheAGN-LPneDaTlaxw.gif" width="400" height="320" style="border-radius:50%" />
+  <img align="right" alt="GIF" src="https://miro.medium.com/v2/resize:fit:679/1*yw0TnheAGN-LPneDaTlaxw.gif" width="512" height="300" style="border-radius:50%" />
 
 
   
