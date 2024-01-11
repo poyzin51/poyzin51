@@ -44,20 +44,6 @@ Hello, I'm Yassine Righi, an enthusiastic self-taught mobile developer and a ded
 <code><img height="20" src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"></code>
 <code><img height="20" src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white"></code>
 
-📊 **This Week I Spent My Time On:**
-<!--START_SECTION:waka-->
-```text
-JavaScript   5 Hours 40 mins         ███████████████████░░░░░░   76.63 % 
-Flutter      2 Hours 11 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.11 % 
-```
-<!--END_SECTION:waka-->
-🚧 **My Todoist Stats:**
-<!-- TODO-IST:START -->
-🏆  27,837 Karma Points           
-🌸  Completed 5 tasks today           
-✅  Completed 825 tasks so far           
-⏳  Longest streak is 8 days
-<!-- TODO-IST:END -->
 
 
 📈 My GitHub Stats
