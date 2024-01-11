@@ -13,17 +13,19 @@
 Hello, I'm Yassine Righi, an enthusiastic self-taught mobile developer and a dedicated computer science student based in Tunisia. My love for coding stems from my ability to conceptualize innovative ideas and bring them to life through sleek and user-friendly mobile interfaces. I place a strong emphasis on ensuring a seamless user experience, robust architecture, and high-quality code in all my development endeavors.
 
   <img align="right" alt="GIF" src="https://miro.medium.com/v2/resize:fit:679/1*yw0TnheAGN-LPneDaTlaxw.gif" width="512" height="320" style="border-radius:50%" />
+
+
   
 - 💬 Ask me about anything, I am happy to help;
-- 📫 How to reach me: [Contact Us](https://epicprogrammer.org/contact);
-- 📝 [Blog](https://epicprogrammer.org/)
+- 📫 How to reach me: yassinerighi5@gmail.com;
+
   
 
 #### Top Technologies
 
 <!-- TODO: Make technologies links takes you to repositories -->
 
-[![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Flutter-007acc?style=for-the-badge&labelColor=black&logo=flutter&logoColor=007acc)](#) [![Flutter Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#)
+[![Flutter Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Flutter-007acc?style=for-the-badge&labelColor=black&logo=flutter&logoColor=007acc)](#) [![Firebase Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#)
 
 
 **Languages and Tools:**  
