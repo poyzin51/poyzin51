@@ -3,20 +3,16 @@
 
 
 <a href="https://www.linkedin.com/in/yassine-righi-a43369226/">
-  <img align="left" alt="Epic Programmer | YouTube" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" />
+  <img align="left" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" />
 </a>
 
-<p align=left> <img src=https://komarev.com/ghpvc/?username=santosharron alt=santosharron /> </p>
+<p align=left> <img src=https://komarev.com/ghpvc/?username=poyzin51 alt=poyzin51 /> </p>
 
 <br />
 
+Hello, I'm Yassine Righi, an enthusiastic self-taught mobile developer and a dedicated computer science student based in Tunisia. My love for coding stems from my ability to conceptualize innovative ideas and bring them to life through sleek and user-friendly mobile interfaces. I place a strong emphasis on ensuring a seamless user experience, robust architecture, and high-quality code in all my development endeavors.
 
-Hi, I'm [Santosh Arron](https://santosharron.epicprogrammer.com/), a passionate self-taught Full Stack developer and a freelance software engineer from Chennai, Tamil Nadu. My passion for software lies in dreaming up ideas and making them come true with elegant interfaces. In addition, I take great care in the experience, architecture, and code quality of the things I build.
-
-I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community, and I love how collaboration and knowledge sharing happened through open-source.
-
-
-  <img align="right" alt="GIF" src="https://epicprogrammerassets.netlify.app/Assets/code.gif?raw=true" width="500" height="320" style="border-radius:50%" />
+  <img align="right" alt="GIF" src="https://miro.medium.com/v2/resize:fit:679/1*yw0TnheAGN-LPneDaTlaxw.gif" width="500" height="320" style="border-radius:50%" />
   
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: [Contact Us](https://epicprogrammer.org/contact);
