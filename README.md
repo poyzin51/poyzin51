@@ -1,17 +1,9 @@
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="22px">
 
-<a href="https://youtube.com/@epicprogrammer">
-  <img align="left" alt="Epic Programmer | YouTube" src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white" />
-</a>
-
-
-<a href="https://twitter.com/santosh_arron">
-  <img align="left" alt="Epic Programmer | YouTube" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white" />
-</a>
 
 
 <a href="https://www.linkedin.com/in/yassine-righi-a43369226/">
-  <img align="left" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" />
+  <img align="left" alt="Epic Programmer | YouTube" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" />
 </a>
 
 <p align=left> <img src=https://komarev.com/ghpvc/?username=santosharron alt=santosharron /> </p>
@@ -19,25 +11,61 @@
 <br />
 
 
+Hi, I'm [Santosh Arron](https://santosharron.epicprogrammer.com/), a passionate self-taught Full Stack developer and a freelance software engineer from Chennai, Tamil Nadu. My passion for software lies in dreaming up ideas and making them come true with elegant interfaces. In addition, I take great care in the experience, architecture, and code quality of the things I build.
 
-<h3 align="center">Hello, I'm Yassine Righi, an enthusiastic self-taught mobile developer and a dedicated computer science student based in Tunisia. My love for coding stems from my ability to conceptualize innovative ideas and bring them to life through sleek and user-friendly mobile interfaces. I place a strong emphasis on ensuring a seamless user experience, robust architecture, and high-quality code in all my development endeavors.</h3>
+I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community, and I love how collaboration and knowledge sharing happened through open-source.
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=poyzin51" alt="poyzin51" /></a> </p>
 
-- 🔭 I’m currently working on **WeStudy**
+  <img align="right" alt="GIF" src="https://epicprogrammerassets.netlify.app/Assets/code.gif?raw=true" width="500" height="320" style="border-radius:50%" />
+  
+- 💬 Ask me about anything, I am happy to help;
+- 📫 How to reach me: [Contact Us](https://epicprogrammer.org/contact);
+- 📝 [Blog](https://epicprogrammer.org/)
+  
 
-- 💬 Ask me about **💬 Ask me about anything, I am happy to help;**
+#### Top Technologies
 
-- 📫 How to reach me **YassineRighi5@gmail.com**
+<!-- TODO: Make technologies links takes you to repositories -->
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/yassine righi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yassine righi" height="30" width="40" /></a>
-</p>
+[![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Flutter-007acc?style=for-the-badge&labelColor=black&logo=flutter&logoColor=007acc)](#) [![Flutter Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=poyzin51&show_icons=true&locale=en&layout=compact" alt="poyzin51" /></p>
+**Languages and Tools:**  
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=poyzin51&show_icons=true&locale=en" alt="poyzin51" /></p>
+<code><img height="20" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"></code>
+<code><img height="20" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"></code>
+<code><img height="20" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"></code>
+<code><img height="20" src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase"></code>
+<code><img height="20" src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7"></code>
+<code><img height="20" src="https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white"></code>
+<code><img height="20" src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D"></code>
+<code><img height="20" src="https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black"></code>
+<code><img height="20" src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"></code>
+<code><img height="20" src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white"></code>
+
+📊 **This Week I Spent My Time On:**
+<!--START_SECTION:waka-->
+```text
+JavaScript   5 Hours 40 mins         ███████████████████░░░░░░   76.63 % 
+Flutter      2 Hours 11 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.11 % 
+```
+<!--END_SECTION:waka-->
+🚧 **My Todoist Stats:**
+<!-- TODO-IST:START -->
+🏆  27,837 Karma Points           
+🌸  Completed 5 tasks today           
+✅  Completed 825 tasks so far           
+⏳  Longest streak is 8 days
+<!-- TODO-IST:END -->
+
+
+📈 My GitHub Stats
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=poyzin51&show_icons=true&theme=gotham" alt="poyzin51" />
+
+
+
+### ✍️ Random Dev Quote
+<p align="center"> <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="poyzin51" />
+
+---
