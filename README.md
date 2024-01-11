@@ -12,7 +12,7 @@
 
 Hello, I'm Yassine Righi, an enthusiastic self-taught mobile developer and a dedicated computer science student based in Tunisia. My love for coding stems from my ability to conceptualize innovative ideas and bring them to life through sleek and user-friendly mobile interfaces. I place a strong emphasis on ensuring a seamless user experience, robust architecture, and high-quality code in all my development endeavors.
 
-  <img align="right" alt="GIF" src="https://miro.medium.com/v2/resize:fit:679/1*yw0TnheAGN-LPneDaTlaxw.gif" width="500" height="320" style="border-radius:50%" />
+  <img align="right" alt="GIF" src="https://miro.medium.com/v2/resize:fit:679/1*yw0TnheAGN-LPneDaTlaxw.gif" width="512" height="320" style="border-radius:50%" />
   
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: [Contact Us](https://epicprogrammer.org/contact);
